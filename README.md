@@ -91,14 +91,17 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 ## 📝 HOMEWORK
 
 * Open a pull request to let me know that you’ve finished this course (You can just edit this page and commit to a pull request).
-* This is me editing the page and committing to a pull request. 
+**This is me editing the page and committing to a pull request. 
 
 
 * Create a new markdown or text file in this repository. Let me know what you learned and what you are still confused about.
-* 
+**This is me creating a new markdown. This boldens the text. I CAN USE BOLD TEXT TO HIGHLIGHT IMPORTANT CONCEPTS. 
+* *This feature allows me to write in italics. THIS CAN HELP ME UNDERSCORE IMPORTANT DETAILS AND NUANCES.
 
 
 * Describe one of the ways that Wilson et. al. suggest is a good practice for computational reproducibility and how a tool like R and/or GitHub can be used.
+**Collaboration is a vital aspect of science. It is a good practice to prepare a readme file so that other people can understand your project. The readme should contain the title of the project, a brief description, and contact information. There should also be an explanation of how people can run cleaning or analysis tasks. There should also be a contributing file that describes how people can continue the project and how to use it properly. Within R, you can write comments explaing the purpose of each section of code.
+
 * Save the file, commit the changes, and push the homework to the GitHub repository for the homework.
 
 ## 📚  Resources 
