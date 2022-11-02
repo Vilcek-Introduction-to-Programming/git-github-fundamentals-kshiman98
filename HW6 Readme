@@ -1,0 +1,8 @@
+* Create a new markdown or text file in this repository. Let me know what you learned and what you are still confused about.
+* *This feature allows me to write in italics. THIS CAN BE USED TO UNDERSCORE IMPORTANT DETAILS AND NUANCES. 
+**This is me creating a new markdown. This boldens the text. I CAN USE BOLD TEXT TO HIGHLIGHT IMPORTANT CONCEPTS. I think I am still confused on how to navigate Github and how to use certain features, such as making pull requests. I am also wondering what the Actions, Projects, Wiki, Security, and Insights functions do. I am also unfamiliar with the specific syntax used in Github. 
+
+* Describe one of the ways that Wilson et. al. suggest is a good practice for computational reproducibility and how a tool like R and/or GitHub can be used.
+**Collaboration is a vital aspect of science. It is a good practice to prepare a readme file so that other people can understand your project. The readme should contain the title of the project, a brief description, and contact information. There should also be an explanation of how people can run cleaning or analysis tasks. There should also be a contributing file that describes how people can continue the project and how to use it properly. Within R, you can write code and comments detailing the purpose of each section. You should also state what needs to be done within the code. You can use GitHub to share and store your code with collaboraters.
+
+* Save the file, commit the changes, and push the homework to the GitHub repository for the homework.
