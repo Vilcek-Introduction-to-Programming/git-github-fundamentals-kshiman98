@@ -100,7 +100,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 
 * Describe one of the ways that Wilson et. al. suggest is a good practice for computational reproducibility and how a tool like R and/or GitHub can be used.
-**Collaboration is a vital aspect of science. It is a good practice to prepare a readme file so that other people can understand your project. The readme should contain the title of the project, a brief description, and contact information. There should also be an explanation of how people can run cleaning or analysis tasks. There should also be a contributing file that describes how people can continue the project and how to use it properly. Within R, you can write comments explaing the purpose of each section of code.
+**Collaboration is a vital aspect of science. It is good practice to prepare a readme file so that other people can understand your project. The readme should contain the title of the project, a brief description, and contact information. There should also be an explanation of how people can run cleaning or analysis tasks. A contributing file should be created so that people know how they can continue the project and how to use the code properly. Within R, you can write code and write comments so that people know the purpose of each section of code. Within these comments, you can describe tasks that need to be finished. GitHub is a useful tool for storing and sharing R code with collaborators. GitHub also offers version control, which helps keep track of source code history.
 
 * Save the file, commit the changes, and push the homework to the GitHub repository for the homework.
 
